@@ -1,0 +1,65 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Is correct compared to snapshot 1`] = `
+<nav
+  className="navbar"
+>
+  <ul
+    className="navbar-container"
+  >
+    <li
+      className="navbar-list-item"
+    >
+      <a
+        aria-current={null}
+        className="navbar-link"
+        data-testid="link.Home"
+        href="/Home"
+        onClick={[Function]}
+      >
+        Home
+      </a>
+    </li>
+    <li
+      className="navbar-list-item"
+    >
+      <a
+        aria-current={null}
+        className="navbar-link"
+        data-testid="link.Skills"
+        href="/Skills"
+        onClick={[Function]}
+      >
+        Skills
+      </a>
+    </li>
+    <li
+      className="navbar-list-item"
+    >
+      <a
+        aria-current={null}
+        className="navbar-link"
+        data-testid="link.Me"
+        href="/Me"
+        onClick={[Function]}
+      >
+        Me
+      </a>
+    </li>
+    <li
+      className="navbar-list-item"
+    >
+      <a
+        aria-current="page"
+        className="navbar-link navbar-link selected"
+        data-testid="link.Contact"
+        href="/Contact"
+        onClick={[Function]}
+        style={Object {}}
+      >
+        Contact
+      </a>
+    </li>
+  </ul>
+</nav>
+`;
