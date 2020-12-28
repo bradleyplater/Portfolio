@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Is correct compared to snapshot 1`] = `
+<div
+  className="image"
+  data-testid="background-image"
+  style={
+    Object {
+      "backgroundImage": "url(Coffee.jpg)",
+    }
+  }
+/>
+`;
