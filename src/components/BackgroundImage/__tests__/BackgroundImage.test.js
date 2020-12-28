@@ -3,7 +3,7 @@ import "@testing-library/jest-dom";
 import "@testing-library/jest-dom/extend-expect";
 import renderer from "react-test-renderer";
 import BackgroundImage from "../BackgroundImage";
-import ComputerImage from "../coffee.jpg";
+import ComputerImage from "../Coffee.jpg";
 
 it("Renders without Crashing", () => {
   render(<BackgroundImage src={`url(${ComputerImage})`}></BackgroundImage>);
